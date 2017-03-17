@@ -1,5 +1,5 @@
 hello = {
   message: "Hello World!"
 }
-
-console.log(hello.message);
+key = "message"
+console.log(hello[key]); // Bracket Notation -- Computed Accessor
