@@ -1,1 +1,5 @@
-console.log("Hello World!")
+hello = {
+  message: "Hello World!"
+}
+
+console.log(hello.message);
